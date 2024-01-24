@@ -1,5 +1,6 @@
-# DATA ANALYSICS PROJECT
-OVERVIEW Set of real world data science tasks completed using the Python Pandas library.
+### DATA ANALYSICS PROJECT
+# OVERVIEW 
+Set of real world data science tasks completed using the Python Pandas library.
 
 Concatenating multiple csvs together to create a new DataFrame (pd.concat) Adding columns Parsing cells as strings to make new columns (.str) Using the .apply() method Using groupby to perform aggregate analysis Plotting bar charts and lines graphs to visualize our results Labeling our graph
 
